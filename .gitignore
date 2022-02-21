@@ -1,0 +1,11 @@
+__pycache__
+
+## dot env setup ##
+.env
+
+# logs
+/logs
+
+
+## venv setup ##
+.venv
